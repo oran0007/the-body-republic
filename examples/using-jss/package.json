@@ -1,0 +1,24 @@
+{
+  "name": "gatsby-example-using-jss",
+  "private": true,
+  "description": "Gatsby example site using the JSS plugin",
+  "version": "1.0.0",
+  "author": "Vladimir Guguiev <wizardzloy@gmail.com>",
+  "dependencies": {
+    "gatsby": "next",
+    "gatsby-plugin-jss": "next",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "react-jss": "^8.5.0"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
+  "main": "n/a",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  }
+}
